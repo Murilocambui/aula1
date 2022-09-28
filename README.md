@@ -3,4 +3,4 @@
 3 - git config user.email "murilocambuui22@gmail.com" (Configurei o meu e-mail)
 4- git status (mostrar qual o status atual do repertorio)
 5 - git add - (Adiciona as nossas alterações )
-6 - git comit
+6 - git commit
